@@ -1,6 +1,6 @@
 # b0_atlas_coreg_app
 
-This is a dummy repo so singularity hub can host the singularity container
+This is a dummy repo so singularity hub can host the singularity container.
 
 [Docker Hub](https://hub.docker.com/r/justinblaber/b0_atlas_coreg_app/tags/)
 
