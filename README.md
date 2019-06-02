@@ -2,7 +2,7 @@
 
 This is a dummy repo so singularity hub can host the singularity container.
 
-[Docker Hub](https://hub.docker.com/r/justinblaber/b0_atlas_coreg_app/tags/)
+[Docker Hub](https://hub.docker.com/r/justinblaber/b0_atlas_coreg/tags/)
 
 [Singularity Hub](https://www.singularity-hub.org/collections/3093)
 
