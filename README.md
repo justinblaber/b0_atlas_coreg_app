@@ -12,7 +12,7 @@ For docker:
 sudo docker run --rm \
 -v $(pwd)/INPUTS/:/INPUTS/ \
 -v $(pwd)/OUTPUTS:/OUTPUTS/ \
---user $(id -u):$(id -g) \ls
+--user $(id -u):$(id -g) \
 justinblaber/b0_atlas_coreg
 ```
 For singularity:
